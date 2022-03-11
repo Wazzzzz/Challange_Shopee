@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gojek</string>
+    <string name="bold"><b>Akses Cepat</b></string>
+    <string name="gofood"><b>Go Food</b></string>
+    <string name="gosend"><b>Go Send</b></string>
+    <string name="gomart"><b>Go Mart</b></string>
+    <string name="checkin"><b>Check In</b></string>
+    <string name="other"><b>Lainnya</b></string>
+    <string name="goride"><b>Go Ride</b></string>
+    <string name="gocar"><b>Go Car</b></string>
+    <string name="pulsa"><b>Go Pulsa</b></string>
+</resources>
